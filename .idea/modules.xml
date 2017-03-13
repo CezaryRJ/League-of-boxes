@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2220Oblig1/2220Oblig1.iml" filepath="$PROJECT_DIR$/../2220Oblig1/2220Oblig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2220Oblig2/2220Oblig2.iml" filepath="$PROJECT_DIR$/../2220Oblig2/2220Oblig2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2220Oblig3/2220Oblig3.iml" filepath="$PROJECT_DIR$/../2220Oblig3/2220Oblig3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/League of boxes.iml" filepath="$PROJECT_DIR$/League of boxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sudoku-loser/Sudoku-loser.iml" filepath="$PROJECT_DIR$/../Sudoku-loser/Sudoku-loser.iml" />
+    </modules>
+  </component>
+</project>

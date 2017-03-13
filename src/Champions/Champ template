@@ -1,0 +1,36 @@
+  Champion
+  
+    {
+      super.name = 
+	  
+	  super.gold[0] = new Gold();
+	  super.goldpt[0] = new Gold();
+	  super.actionpoints[0] = new ActionPoint();
+	 	
+	  super.hpcap[0] = new HP(); 
+	  super.currentHP[0] = new HP();
+	  super.hppt[0] = new HP(); 
+	
+	  
+	  
+	  super.mpcap[0] = new MP(); 
+	  super.currentMP[0] = new MP(); 
+	  super.mppt[0] =new MP();
+	  
+	  
+	  super.ad[0] = new AD();
+	  super.adpen[0] = new ADpen();
+	  super.ADres[0] = new ADres();
+	  
+	  
+	  super.ap[0] = new AP();
+	  super.appen[0] = new APpen();
+	  super.APres[0] = new APres();
+	  
+	  super.lifesteal[0] = new LifeSteal();
+	  super.spellvamp[0] = new SpellVamp();
+	  
+	 
+	  super.skills =
+	  
+	  }
